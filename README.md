@@ -1,4 +1,5 @@
-<h1 align="left"> Asim Hameed Khan <img src="https://komarev.com/ghpvc/?username=asimniazi63&label=Profile%20views&color=0e75b6&style=flat" alt="hitcount" /> </h1>
+<h1 align="left"> Asim Hameed Khan </h1>
+#<img src="https://komarev.com/ghpvc/?username=asimniazi63&label=Profile%20views&color=0e75b6&style=flat" alt="hitcount" /> </h1>
 <h3 align="left">Postgraduate Researcher and Machine Learning Engineer</h3>
 
 - I’m currently working on Computer Vision, Image Processing, Machine Learning, Deep Learning, Remote Sensing, Agriculture and Satellite Imagery
