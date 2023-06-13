@@ -7,7 +7,7 @@
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asimniazi63&show_icons=true&locale=en" alt="asimniazi63" /></p>
+<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=asimniazi63&show_icons=true&locale=en" alt="asimniazi63" /></p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
